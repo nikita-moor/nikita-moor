@@ -60,7 +60,7 @@ QS World University Rankings: 601-650 ([link](https://www.topuniversities.com/un
 
 External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195231991), [Web of Science](https://www.webofscience.com/wos/author/rid/E-9464-2016).
 
-1. Berdimbetov, T.; Pushpawela, B.; Murzintcev, N.; Nietullaeva, S.; Gafforov, Kh.; Asiya, T.; Madetov, D. (2024) Unraveling the intricate links between the dwindling Aral Sea and climate variability during 2002-2017. Climate. DOI: [10.3390/cli12070105](https://www.mdpi.com/2225-1154/12/7/105).
+1. Berdimbetov, T.; Pushpawela, B.; Murzintcev, N.; Nietullaeva, S.; Gafforov, Kh.; Asiya, T.; Madetov, D. (2024) Unraveling the intricate links between the dwindling Aral Sea and climate variability during 2002-2017. Climate, 12(7), 105. DOI: [10.3390/cli12070105](https://doi.org/10.3390/cli12070105).
 1. Murzintcev, N. (2022) Popma's Monolingual Dictionary of Latin Synonyms. Lexikos, 32, 357-363. DOI: [10.5788/32-1-1747](https://doi.org/10.5788/32-1-1747).
 1. Shen, Sh.; Huang, J.; Cheng, Ch.; Zhang, T.; Murzintcev, N.; Gao P. (2021) Spatiotemporal Evolution of the Online Social Network after a Natural Disaster. ISPRS International Journal of Geo-Information, 10(11), 744. DOI: [10.3390/ijgi10110744](https://doi.org/10.3390/ijgi10110744).
 1. Su, K.; Cheng, Ch.; Murzintcev, N.; Zhang, T. (2019) 主题模型在基于社交媒体的灾害分类中的应用及比较. (English: Application and Comparison of Topic Model in Identifying Latent Topics from Disaster-Related Tweets.) Journal of Geo-Information Science, 2019, 21(8), pp. 1152–1160. DOI: [10.12082/dqxxkx.2019.190046](https://doi.org/10.12082/dqxxkx.2019.190046).
