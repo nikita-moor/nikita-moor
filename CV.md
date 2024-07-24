@@ -88,7 +88,7 @@ External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAA
   QGIS, PostGIS, OpenLayers, RS in R
 - Data-mining and Machine Learning (ML) \
   R, NLTK, SPSS, GMDH, Gephi
-- Software engineering
+- Software engineering \
   R, Python, C, Assembler, web-languages (JavaScript, PHP)
 - Scientific writing \
   LaTeX, Vector and 3D graphics, technical drawing (AutoCAD), plots (ggplot2)
