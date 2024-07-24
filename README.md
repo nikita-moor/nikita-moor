@@ -5,4 +5,4 @@
 - Cartography, GIS, on-line maps
 - Computational Linguistics, NLP
 
-More in my CV…
+See my [Curriculum Vitae](CV.md).
