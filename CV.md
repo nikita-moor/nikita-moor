@@ -6,7 +6,7 @@
 - Google Scholar: 6 ([link](https://scholar.google.com/citations?user=RAa6OEQAAAAJ))
 - ORCiD: 0000-0003-1276-3112 ([link](https://orcid.org/0000-0003-1276-3112))
 
-## Interests
+### Interests
 
 - geocoding
 - geoparsing
@@ -14,7 +14,7 @@
 
 
 
-# Education
+## Education
 
 - **2018**: PhD in Cartography and GIS \
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Science. Beijing, China. \
@@ -23,14 +23,14 @@ QS World University Rankings: 76 by subject ([link](https://www.topuniversities.
 Southern Federal University. Rostov-on-Don, Russia. Diploma with Honors. \
 QS World University Rankings: 601-650 ([link](https://www.topuniversities.com/universities/southern-federal-university))
 
-## additional
+### additional
 
 - **2016**: Culture Analytics, University of California, Los Angeles
 - **2012**: Natural Language Processing, Stanford University (Coursera)
 
 
 
-# Employment
+## Employment
 
 - 2024-now: Tashkent University of Information Technologies, Uzbekistan \
   associate professor: teaching AI and Innovation Management; research
@@ -48,15 +48,15 @@ QS World University Rankings: 601-650 ([link](https://www.topuniversities.com/un
 
 
 
-# Research grants
+## Research grants
 
 - 2022-2024: World Bank (MUNIS, Uzbekistan), project director
 
 
 
-# Scientific achievements
+## Scientific achievements
 
-## Peer-reviewed papers
+### Peer-reviewed papers
 
 External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195231991), [Web of Science](https://www.webofscience.com/wos/author/rid/E-9464-2016).
 
@@ -68,18 +68,19 @@ External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAA
 1. Murzintcev, N.; Shen, Sh.; Cheng, Ch. (2017). Propagation of Disaster Information about Typhoon Haiyan. Research in Computing Science, 143, 10–28.
 1. Shen, Sh.; Murzintcev, N.; Song, Ch.; Cheng, Ch. (2017). Information retrieval of a disaster event from cross-platform social media. Information Discovery and Delivery, 45(4). DOI: [10.1108/IDD-01-2017-0003](https://doi.org/10.1108/IDD-01-2017-0003).
 
-## Software and online resources
+### Software and online resources
+
 1. Murzintcev, N.; Chaney, N. Ldatuning: Tuning of the latent dirichlet allocation models parameters. R package. URL: <https://cran.r-project.org/web/packages/ldatuning/index.html>.
 1. Collection of Latin dictionaries \[web-site\]. URL: [https://latin-dict.github.io](https://latin-dict.github.io).
 
-## Dissertation and thesis
+### Dissertation and thesis
 
 1. (MSc) Index correction module for automatic postal items separation line.
 2. (PhD) Disaster Hashtags in Social Media.
 
 
 
-# Qualification
+## Qualification
 
 - Natural Language Processing (NLP) \
   LDA, NER, classification models
@@ -94,7 +95,7 @@ External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAA
 
 
 
-# Foreign languages
+## Foreign languages
 
 - English (fluent, IELTS 7.0 certificate in 2024)
 - Spanish (intermediate, DELE B1 certificate in 2013)
@@ -103,6 +104,6 @@ External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAA
 - Armenian (intermediate)
 - Latin (intermediate)
 
-# Additional information
+## Additional information
 
 Basic education in music and medicine.
