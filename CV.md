@@ -18,10 +18,10 @@
 
 - **2018**: PhD in Cartography and GIS \
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Science. Beijing, China. \
-QS World University Rankings: 76 by subject ([link](https://www.topuniversities.com/universities/university-chinese-academy-sciences-ucas))
+QS World University Rankings: 362 ([link](https://www.topuniversities.com/universities/university-chinese-academy-sciences-ucas))
 - **2013**: Engineer in Control and computer technology \
 Southern Federal University. Rostov-on-Don, Russia. Diploma with Honors. \
-QS World University Rankings: 601-650 ([link](https://www.topuniversities.com/universities/southern-federal-university))
+QS World University Rankings: 1001-1200 ([link](https://www.topuniversities.com/universities/southern-federal-university))
 
 ### additional
 
