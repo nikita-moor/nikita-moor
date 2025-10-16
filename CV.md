@@ -60,6 +60,8 @@ QS World University Rankings: 601-650 ([link](https://www.topuniversities.com/un
 
 External: [Google Scholar](https://scholar.google.com/citations?user=RAa6OEQAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195231991), [Web of Science](https://www.webofscience.com/wos/author/rid/E-9464-2016).
 
+1. Murzintcev, N.; Nietullaeva, S.; Berdimbetov, T.; Pushpawela, B.; Tureniyazova, A.; Shelton, S.; Aytmuratov, B.; Gafforov, K.; Parakhatov, K.; Erdashov, A.; et al. (2025). Reconstruction of Water Storage Variability in the Aral Sea Region. Climate, 13, 182. DOI: [10.3390/cli13090182](https://doi.org/10.3390/cli13090182). [SCI]
+    2. Murzintcev, N.; Berdimbetov, T. (2024) History of the ancient Roman altar in the Tashkent collection of Nicholai Konstantinovich Romanov. Vestnik VSGIK, 3(31), 47-56. DOI: [10.31443/2541-8874-2024-3-31-47-56](https://doi.org/10.31443/2541-8874-2024-3-31-47-56).
 1. Berdimbetov, T.; Pushpawela, B.; Murzintcev, N.; Nietullaeva, S.; Gafforov, Kh.; Asiya, T.; Madetov, D. (2024) Unraveling the intricate links between the dwindling Aral Sea and climate variability during 2002-2017. Climate, 12(7), 105. DOI: [10.3390/cli12070105](https://doi.org/10.3390/cli12070105).
 1. Murzintcev, N. (2022) Popma's Monolingual Dictionary of Latin Synonyms. Lexikos, 32, 357-363. DOI: [10.5788/32-1-1747](https://doi.org/10.5788/32-1-1747).
 1. Shen, Sh.; Huang, J.; Cheng, Ch.; Zhang, T.; Murzintcev, N.; Gao P. (2021) Spatiotemporal Evolution of the Online Social Network after a Natural Disaster. ISPRS International Journal of Geo-Information, 10(11), 744. DOI: [10.3390/ijgi10110744](https://doi.org/10.3390/ijgi10110744).
